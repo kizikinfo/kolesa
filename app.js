@@ -91,3 +91,5 @@ proxyReqPathResolver: function(req) {
     });
   }
 }));
+
+app.listen(port);
